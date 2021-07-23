@@ -15,4 +15,4 @@
 
 # Device in use
 
-![Redmi 10X 5G](https://img.shields.io/badge/Redmi%2010X%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+[![Redmi 10X 5G](https://img.shields.io/badge/Redmi%2010X%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/buy/detail?product_id=10000244)
