@@ -23,4 +23,4 @@
 
 ![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 
-![Android 5.1.1](https://img.shields.io/badge/Android%205-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android 5.1.1](https://img.shields.io/badge/Android%205.1.1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
