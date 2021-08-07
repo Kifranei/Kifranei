@@ -15,7 +15,7 @@
 
 # Device in use
 
-[![Redmi 10X 5G](https://img.shields.io/badge/Redmi%2010X%205G-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/buy/detail?product_id=10000244)
+[![Redmi 10X](https://img.shields.io/badge/Redmi%2010X-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/buy/detail?product_id=10000244)
 
 [![Xiaomi Redmi 3](https://img.shields.io/badge/Xiaomi%20Redmi%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi3)
 
@@ -23,4 +23,4 @@
 
 ![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 
-![Android 5](https://img.shields.io/badge/Android%205-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android 5.1.1](https://img.shields.io/badge/Android%205-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
