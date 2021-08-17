@@ -3,24 +3,16 @@
 
 # Contact me
 
-[![BiliBili](https://img.shields.io/badge/-Kifranei-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/1301605826)
+[![BiliBili](https://img.shields.io/badge/-Kifranei-00a1d6?style=rounded-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/1301605826)
 
-[![Zhihu](https://img.shields.io/badge/-Oranic-0e88eB?style=flat-square&logo=zhihu&logoColor=fff)](https://www.zhihu.com/people/fireliawolf)
+[![Steam](https://img.shields.io/badge/-Kifranei-000000?style=rounded-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/kifranei)
 
-[![Steam](https://img.shields.io/badge/-Kifranei-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/kifranei)
+[![Telegram](https://img.shields.io/badge/-t.me/Kifranei-3db6f1?style=rounded-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/Kifranei)
 
-[![Telegram](https://img.shields.io/badge/-t.me/Kifranei-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/Kifranei)
-
-[![E-Mail](https://img.shields.io/badge/-xinckidn@126.com-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:xinckidn@126.com)
+[![E-Mail](https://img.shields.io/badge/-xinckidn@126.com-168de2?style=rounded-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:xinckidn@126.com)
 
 # Device in use
 
-[![Redmi 10X](https://img.shields.io/badge/Redmi%2010X-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/buy/detail?product_id=10000244)
+[![Redmi 10X](https://img.shields.io/badge/Redmi%2010X-fd4900?style=rounded-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/buy/detail?product_id=10000244)
 
-[![Xiaomi Redmi 3](https://img.shields.io/badge/Xiaomi%20Redmi%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi3)
-
-# Work environment
-
-![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
-
-![Android 5.1.1](https://img.shields.io/badge/Android%205.1.1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+[![Redmi 3](https://img.shields.io/badge/Redmi%203-fd4900?style=rounded-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi3)
