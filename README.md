@@ -9,8 +9,6 @@
 
 [![Telegram](https://img.shields.io/badge/-t.me/Kifranei-3db6f1?style=rounded-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/Kifranei)
 
-[![E-Mail](https://img.shields.io/badge/-xinckidn@126.com-168de2?style=rounded-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:xinckidn@126.com)
-
 # Device in use
 
 [![Redmi 10X](https://img.shields.io/badge/Redmi%2010X-fd4900?style=rounded-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/buy/detail?product_id=10000244)
