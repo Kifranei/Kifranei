@@ -9,8 +9,3 @@
 
 [![Telegram](https://img.shields.io/badge/-t.me/Kifranei-3db6f1?style=rounded-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/Kifranei)
 
-# Device in use
-
-[![Redmi 10X](https://img.shields.io/badge/Redmi%2010X-fd4900?style=rounded-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/buy/detail?product_id=10000244)
-
-[![Redmi 3](https://img.shields.io/badge/Redmi%203-fd4900?style=rounded-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/hongmi3)
