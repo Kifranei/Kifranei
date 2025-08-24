@@ -28,6 +28,6 @@
 | 项目 | 说明 |
 |------|------|
 | [StudentInformationSystem](https://github.com/Kifranei/StudentInformationSystem) | 基于 ASP.NET MVC5 的学生教务管理系统，含微信小程序端 |
-| `technical-showcase`（即将创建） | 记录 Docker、K8s、Zabbix 等运维工具的学习过程 |
+| [technical-showcase](https://github.com/Kifranei/technical-showcase) | 记录 Docker、K8s、Zabbix 等运维工具的学习过程 |
 
 ---
