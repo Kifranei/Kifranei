@@ -7,7 +7,7 @@
 ### 🛠 技术栈
 
 - **操作系统**：Linux（CentOS/RHEL/Rocky Linux, Debian, Ubuntu, Arch等）、Windows Server
-- **编程与开发**：C#, Python, SQL Server, HTML&CSS, JavaScript
+- **编程与开发**：C#, Python, SQL Server, HTML &amp; CSS, JavaScript
 - **Web 框架**：ASP.NET MVC5, Bootstrap
 - **虚拟化与云平台**：OpenStack, KVM, Docker（学习中）, Kubernetes（学习中）
 - **自动化与监控**：PXE 批量部署, Zabbix（学习中）, JumpServer（搭建中）
